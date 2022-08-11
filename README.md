@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/gastonechenique" target="blank"><img src="https://img.shields.io/twitter/follow/gastonechenique?logo=twitter&style=for-the-badge" alt="gastonechenique" /></a> </p>
 
-- 🌱 I’m currently learning **Data Engeneering**
+- 🌱 I’m currently learning **Spatial Data Science**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Statistics, GIS & Data Science**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science & GIS**
 
 - 📫 How to reach me **gastonechenique@gmail.com**
 
