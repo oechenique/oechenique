@@ -1,4 +1,4 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif?w=1024)]
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif?w=1024)
 <h1 align="center">Hi 👋, I'm Gastón Echenique</h1>
 <h3 align="center">A passionate data scientist from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif">
