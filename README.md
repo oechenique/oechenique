@@ -1,7 +1,7 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif?w=1280)
 <h1 align="center">Hi 👋, I'm Gastón Echenique</h1>
 <h3 align="center">A passionate Data Scientist from Argentina</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76110e62bf97f686a73a7b4133e91b8c3148da9bbc81&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oechenique&label=Profile%20views&color=0e75b6&style=flat" alt="oechenique" /> </p>
 
