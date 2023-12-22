@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaston-echenique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/gastonechenique" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png" alt="twich" height="30" width="30"/></a> <!-- Espacio en blanco -->
+<a href="https://discord.com/channels/@gastonechenique" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="discord" height="55" width="55"/></a> <!-- Espacio en blanco -->
 <a href="mailto:gastonechenique@gmail.com" target="_blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="gmail" height="30" width="90"/></a>
 </p>
 
