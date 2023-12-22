@@ -3,19 +3,19 @@
 <h3 align="center">A passionate Data Scientist from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oechenique&label=Profile%20views&color=0e75b6&style=flat" alt="oechenique" /> </p>
+<div align="left">
+  <p><img src="https://komarev.com/ghpvc/?username=oechenique&label=Profile%20views&color=0e75b6&style=flat" alt="oechenique" /></p>
 
-<p align="left"> <a href="https://twitter.com/gastonechenique" target="blank"><img src="https://img.shields.io/twitter/follow/gastonechenique?logo=twitter&style=for-the-badge" alt="gastonechenique" /></a> </p>
+  <p><a href="https://twitter.com/gastonechenique" target="blank"><img src="https://img.shields.io/twitter/follow/gastonechenique?logo=twitter&style=for-the-badge" alt="gastonechenique" /></a></p>
 
--🌱 Working as **Geospatial Data Modeler**
-
--👯 Collaborating on **Statistics, GIS & Data Science**
-
--💬 Ask me about **Data, Beers & GIS**
-
--🧠 Expert in **Data Science and Geographic Information Systems**
-
--🎌 Learning **Japanese** and big fan of **anime**
+  <ul>
+    <li>🌱 Working as **Geospatial Data Modeler**</li>
+    <li>👯 Collaborating on **Statistics, GIS & Data Science**</li>
+    <li>💬 Ask me about **Data, Beers & GIS**</li>
+    <li>🧠 Expert in **Data Science and Geographic Information Systems**</li>
+    <li>🎌 Learning **Japanese** and big fan of **anime**</li>
+  </ul>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
