@@ -5,11 +5,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv">
 
-<br>
-
 <div align="left" style="margin-top: 10px;">
-  <p><img src="https://komarev.com/ghpvc/?username=oechenique&label=Profile%20views&color=0e75b6&style=flat" alt="view" style="width: 15%;"/></p>
-
+  <p><img src="https://komarev.com/ghpvc/?username=oechenique&label=Profile%20views&color=0e75b6&style=flat" alt="view" style="width: 12%;"/></p>
   <p><a href="https://twitter.com/gastonechenique" target="blank"><img src="https://img.shields.io/twitter/follow/gastonechenique?logo=x&style=for-the-badge" alt="x_twitter" style="width: 20%;" /></a></p>
 
   <ul>
@@ -35,7 +32,7 @@
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r-proj" width="50" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg" alt="gcp" width="120" height="40"/></a>
 <a href="https://azure.microsoft.com/en-us/products/synapse-analytics/" target="_blank" rel="noreferrer"> <img src="https://4.bp.blogspot.com/-94Ztma98Myk/XqSCbZgL9lI/AAAAAAAAGcM/cnPtvLH5bWsfVT26R0HXgtUuy9VK57S4ACLcBGAsYHQ/s1600/AzureSynapseAnalytics.png" alt="synapse" width="35" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="50" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="55" height="30"/></a>
 <a href="https://www.qgis.org" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/es/_static/logo.png" alt="qgis" width="40" height="40"/></a> 
 <a href="https://www.arcgis.com" target="_blank" rel="noreferrer"> <img src="https://www.arcgis.com/graphics/arcgis-online-icon.png" alt="arcgis" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
