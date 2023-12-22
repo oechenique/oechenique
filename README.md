@@ -8,18 +8,23 @@
 <p align="left"> <a href="https://twitter.com/gastonechenique" target="blank"><img src="https://img.shields.io/twitter/follow/gastonechenique?logo=twitter&style=for-the-badge" alt="gastonechenique" /></a> </p>
 
 -🌱 Working as **Geospatial Data Modeler**
+
 -👯 Collaborating on **Statistics, GIS & Data Science**
+
 -💬 Ask me about **Data, Beers & GIS**
+
 -🧠 Expert in **Data Science and Geographic Information Systems**
+
 -🎌 Learning **Japanese** and big fan of **anime**
+
 -🌍 Focused on **sustainable and ethical solutions**
+
 -📫 Contact: **gastonechenique@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gastonechenique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gastonechenique" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaston-echenique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaston-echenique" height="30" width="40" /></a>
-<a href="https://instagram.com/gastonechenique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gastonechenique" height="30" width="40" /></a>
+<a href="https://instagram.com/gastonechenique" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png" alt="gastonechenique" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
