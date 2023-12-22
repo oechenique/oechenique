@@ -17,8 +17,6 @@
 
 -🎌 Learning **Japanese** and big fan of **anime**
 
--🌍 Focused on **sustainable and ethical solutions**
-
 -📫 Contact: **gastonechenique@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
