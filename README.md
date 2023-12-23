@@ -12,7 +12,7 @@
   <ul>
     <li>🌱 Working as <strong>Geospatial Data Modeler</strong></li>
     <li>🌎 Expert in <strong>Data Science and Geographic Information Systems</strong></li>
-    <li>💬 Ask me about <strong>Data, Beers & GIS</strong></li>
+    <li>🍻 Ask me about <strong>Data, Beers & Maps</strong></li>
     <li>🎌 Learning <strong>Japanese</strong>, <strong>Anime fan</strong> and <strong>Bass Player</strong></li>
   </ul>
 </div>
