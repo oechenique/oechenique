@@ -35,7 +35,6 @@
 <a href="https://azure.microsoft.com/en-us/products/synapse-analytics/" target="_blank" rel="noreferrer"> <img src="https://4.bp.blogspot.com/-94Ztma98Myk/XqSCbZgL9lI/AAAAAAAAGcM/cnPtvLH5bWsfVT26R0HXgtUuy9VK57S4ACLcBGAsYHQ/s1600/AzureSynapseAnalytics.png" alt="synapse" width="35" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="55" height="30"/></a>
 <a href="https://www.qgis.org" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/es/_static/logo.png" alt="qgis" width="40" height="40"/></a> 
-<a href="https://www.arcgis.com" target="_blank" rel="noreferrer"> <img src="https://www.arcgis.com/graphics/arcgis-online-icon.png" alt="arcgis" width="40" height="40"/></a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="80" height="40"/></a>
 <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="geopandas" width="120" height="40"/></a>
 
