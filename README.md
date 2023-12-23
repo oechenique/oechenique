@@ -11,9 +11,9 @@
 
   <ul>
     <li>🌱 Working as <strong>Geospatial Data Modeler</strong></li>
-    <li>🧠 Expert in <strong>Data Science and Geographic Information Systems</strong></li>
+    <li>🌎 Expert in <strong>Data Science and Geographic Information Systems</strong></li>
     <li>💬 Ask me about <strong>Data, Beers & GIS</strong></li>
-    <li>🎌 Learning <strong>Japanese</strong>, <strong>anime fan</strong> and <strong>bass player</strong></li>
+    <li>🎌 Learning <strong>Japanese</strong>, <strong>Anime fan</strong> and <strong>Bass Player</strong></li>
   </ul>
 </div>
 
