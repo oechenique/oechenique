@@ -13,7 +13,7 @@
     <li>🌱 Working as <strong>Geospatial Data Modeler</strong></li>
     <li>🧠 Expert in <strong>Data Science and Geographic Information Systems</strong></li>
     <li>💬 Ask me about <strong>Data, Beers & GIS</strong></li>
-    <li>🎌 Learning <strong>Japanese</strong> and big fan of <strong>anime</strong></li>
+    <li>🎌 Learning <strong>Japanese</strong>, <strong>anime fan</strong> and <strong>bass player</strong></li>
   </ul>
 </div>
 
