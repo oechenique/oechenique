@@ -1,4 +1,4 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
+![MasterHead](https://github.com/oechenique/oechenique/blob/main/data/mario_banner.gif)
 <h1 align="center">Hi there, I'm Gastón!</h1>
 
 <h2 align="center">A fervent Data Sorcerer hailing from the digital realms of Argentina</h2>
