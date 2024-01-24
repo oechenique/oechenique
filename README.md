@@ -29,13 +29,21 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+&#160;
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="80" height="40"/></a>
+&#160;
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="90" height="40"/></a>
+&#160;
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r-proj" width="50" height="40"/></a>
+&#160;
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://github.com/oechenique/oechenique/blob/main/data/icons8-google-cloud-48.png" alt="gcp" width="48" height="42"/></a>
+&#160;
 <a href="https://azure.microsoft.com/en-us/products/synapse-analytics/" target="_blank" rel="noreferrer"> <img src="https://4.bp.blogspot.com/-94Ztma98Myk/XqSCbZgL9lI/AAAAAAAAGcM/cnPtvLH5bWsfVT26R0HXgtUuy9VK57S4ACLcBGAsYHQ/s1600/AzureSynapseAnalytics.png" alt="synapse" width="35" height="40"/></a>
+&#160;
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="55" height="30"/></a>
-<a href="https://www.qgis.org" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/es/_static/logo.png" alt="qgis" width="40" height="40"/></a> 
+&#160;
+<a href="https://www.qgis.org" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/es/_static/logo.png" alt="qgis" width="40" height="40"/></a>
+&#160;
 <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="geopandas" width="120" height="40"/></a>
 
 <div style="display: flex; justify-content: space-between;">
