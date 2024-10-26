@@ -10,7 +10,8 @@
 - 🗺️ 地理空間データモデラーとして活躍中 | Working as **Geospatial Data Modeler**
 - 🌏 データサイエンスとGISのエキスパート | Expert in **Data Science and GIS**
 - 🍺 データ・ビール・地図について何でも聞いてください！| Ask me about **Data, Beers & Maps**
-- 🎌 日本語勉強中・アニメ大好き・ベース演奏家 | Learning **Japanese**, **Anime fan** & **Bass Player**
+- 🎌 日本語勉強中・アニメ大好き・ベース演奏家  
+  Learning **Japanese**, **Anime fan** & **Bass Player**
 
 ## 繋がりましょう！| Connect with me:
 
@@ -35,7 +36,7 @@
 &#160;
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="55" height="30"/></a>
 &#160;
-<a href="https://www.qgis.org" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.qgis.org/wp-content/uploads/2016/12/qgis-logo_anita02.png?w=1400&h=&ssl=1" alt="qgis" width="80" height="40"/></a>
+<a href="https://www.qgis.org" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.qgis.org/wp-content/uploads/2016/12/qgis-logo_anita02.png?w=1400&h=&ssl=1" alt="qgis" width="90" height="40"/></a>
 &#160;
 <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="geopandas" width="120" height="40"/></a>
 </p>
