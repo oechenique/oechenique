@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/oechenique/oechenique/blob/main/data/mario_banner.gif)
-![MasterHead](https://github.com/oechenique/oechenique/blob/main/data/mario_banner.gif)
 
 # アルゼンチンから世界へ 🌎 データの魔法使い | A Data Sorcerer from Argentina
 
