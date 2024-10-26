@@ -1,10 +1,8 @@
 ![MasterHead](https://github.com/oechenique/oechenique/blob/main/data/mario_banner.gif)
 
-# アルゼンチンから世界へ 🌎 データの魔法使い
-# A Data Sorcerer from Argentina
-
+<h1 align="center">アルゼンチンから世界へ 🌎 データの魔法使い</h1>
+<h1 align="center">A Data Sorcerer from Argentina</h1>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv">
-
 <p><img src="https://komarev.com/ghpvc/?username=oechenique&label=訪問者数&color=0e75b6&style=flat" alt="view" style="width: 10%;"/></p>
 <p><a href="https://twitter.com/gastonechenique" target="blank"><img src="https://img.shields.io/twitter/follow/gastonechenique?logo=x&style=for-the-badge" alt="x_twitter" style="width: 20%;" /></a></p>
 
