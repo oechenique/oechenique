@@ -15,7 +15,7 @@
 - 🗺️ 地理空間データモデラーとして活躍中 | Working as **Geospatial Data Modeler**
 - 🌏 データサイエンスとGISのエキスパート | Expert in **Data Science and GIS**
 - 🍺 データ・ビール・地図について何でも聞いてください！| Ask me about **Data, Beers & Maps**
-- 🎌 日本語勉強中・アニメ大好き・ベース演奏家
+- 🎌 日本語勉強中・アニメ大好き・ベース演奏家 | 
 Learning **Japanese**, **Anime fan** & **Bass Player**
 
 ## 繋がりましょう！| Connect with me:
