@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/oechenique/oechenique/blob/main/data/mario_banner.gif)
 
-# アルゼンチンから世界へ 🌎 データの魔法使い | A Data Sorcerer from Argentina
+# アルゼンチンから世界へ 🌎 データの魔法使い
+# A Data Sorcerer from Argentina
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv">
 
@@ -15,9 +16,11 @@
 
 ## 繋がりましょう！| Connect with me:
 
+<p align="left">
 <a href="https://linkedin.com/in/gaston-echenique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@gastonechenique" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="discord" height="60" width="60"/></a>
 <a href="mailto:gastonechenique@gmail.com" target="_blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/new_gmail_logo-freelogovectors.net_.png" alt="gmail" height="60" width="120"/></a>
+</p>
 
 ## 技術スタック | Tech Stack:
 
@@ -41,8 +44,12 @@
 <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="geopandas" width="120" height="40"/></a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=oechenique&show_icons=true&locale=en" alt="oechenique" width="400" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oechenique" alt="oechenique" width="420" />
+## GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oechenique&show_icons=true&locale=en" alt="oechenique" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oechenique" alt="oechenique" width="420" />
+</div>
 
 ---
 <p align="center">
