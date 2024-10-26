@@ -37,7 +37,7 @@
 &#160;
 <a href="https://azure.microsoft.com/en-us/products/synapse-analytics/" target="_blank" rel="noreferrer"> <img src="https://4.bp.blogspot.com/-94Ztma98Myk/XqSCbZgL9lI/AAAAAAAAGcM/cnPtvLH5bWsfVT26R0HXgtUuy9VK57S4ACLcBGAsYHQ/s1600/AzureSynapseAnalytics.png" alt="synapse" width="35" height="40"/></a>
 &#160;
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="55" height="30"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="55" height="30"/></a>
 &#160;
 <a href="https://www.qgis.org" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.qgis.org/wp-content/uploads/2016/12/qgis-logo_anita02.png?w=1400&h=&ssl=1" alt="qgis" width="90" height="40"/></a>
 &#160;
