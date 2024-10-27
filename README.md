@@ -11,7 +11,7 @@
 
 ## Let's Connect! 一緒に学びましょう 🌐
 
-[![Twitter Badge](https://img.shields.io/badge/-@GastonEchenique-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://x.com/GastonEchenique)](https://x.com/GastonEchenique)
+[![Twitter Badge](https://img.shields.io/badge/-@GastonEchenique-1DA1F2?style=flat&logo=x&logoColor=white&link=https://x.com/GastonEchenique)](https://x.com/GastonEchenique)
 [![LinkedIn Badge](https://img.shields.io/badge/-Gastón_Echenique-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaston-echenique/)](https://www.linkedin.com/in/gaston-echenique/)
 [![GitHub Badge](https://img.shields.io/badge/-oechenique-333?style=flat&logo=github&logoColor=white&link=https://github.com/oechenique)](https://github.com/oechenique)
 [![GeoAnalytics Badge](https://img.shields.io/badge/-GeoAnalytics_Site-2ecc71?style=flat&logo=google-earth&logoColor=white&link=https://oechenique.github.io/geoanalytics/)](https://oechenique.github.io/geoanalytics/)
