@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/oechenique/oechenique/blob/main/data/mario_banner.gif)
+![MasterHead](https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif)
 
 # Welcome to My Geo-World! 🌍
 
@@ -9,17 +9,13 @@
 - 🌌 Exploring the intersections of machine learning and geospatial data to uncover meaningful insights.
 - 🌱 Currently focusing on making GIS concepts easy to learn for everyone (even if you're new to Python)!
 
-## 🛠️ Tech & Tools I Use
-- **Languages**: Python, SQL, R
-- **Geo-Tools**: Google Earth Engine, Folium, QGIS
-- **Data**: PostgreSQL, MongoDB, Big Data
-
 ## Let's Connect! 一緒に学びましょう 🌐
-Find me on social media or through my portfolio:
-- [GitHub](https://github.com/oechenique) - Projects and Code
-- [LinkedIn](https://www.linkedin.com/in/gaston-echenique/) - Let's connect!
-- [GeoAnalytics Site](https://oechenique.github.io/geoanalytics/) - Blog & Articles
-- [Discord](https://discord.com/users/gastonechenique) - Community Chat
+
+[![Twitter Badge](https://img.shields.io/badge/-@GastonEchenique-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://x.com/GastonEchenique)](https://x.com/GastonEchenique)
+[![LinkedIn Badge](https://img.shields.io/badge/-Gastón_Echenique-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaston-echenique/)](https://www.linkedin.com/in/gaston-echenique/)
+[![GitHub Badge](https://img.shields.io/badge/-oechenique-333?style=flat&logo=github&logoColor=white&link=https://github.com/oechenique)](https://github.com/oechenique)
+[![GeoAnalytics Badge](https://img.shields.io/badge/-GeoAnalytics_Site-2ecc71?style=flat&logo=google-earth&logoColor=white&link=https://oechenique.github.io/geoanalytics/)](https://oechenique.github.io/geoanalytics/)
+[![Discord Badge](https://img.shields.io/badge/-Gastón|ガストン-5865F2?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/gastonechenique)](https://discord.com/users/gastonechenique)
 
 よろしくお願いします！💡 Let's learn and grow together in the world of GIS and Data Science!
 
