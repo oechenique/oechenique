@@ -2,7 +2,7 @@
 
 # Welcome to My Geo-World! 🌍
 
-こんにちは！👋 Hey, I'm Gastón, a passionate Data Scientist and GIS specialist with a love for geospatial analytics and Python programming. Through my work, I aim to make spatial data accessible, interactive, and meaningful. Ready to dive into the world of Geo-Analytics with me?
+こんにちは！👋 Hey, I'm Gastón, a passionate Data Engineer and GIS specialist with a love for geospatial analytics and Python programming. Through my work, I aim to make spatial data accessible, interactive, and meaningful. Ready to dive into the world of Geo-Analytics with me?
 
 ## 🚀 About Me
 - 🗺️ Geoinformatics and GIS expert with experience in data science, spatial analytics, and environmental management.
