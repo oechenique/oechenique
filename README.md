@@ -1,4 +1,4 @@
-![Masterhead](data/masterhead-pixel-desk.png)
+![Masterhead](data/masterhead-pixel-desk.jpeg)
 
 **Senior Data Engineer** building data infrastructure and ML systems that hold up in production — pipelines, lakehouses, and the occasional geospatial detour.
 
