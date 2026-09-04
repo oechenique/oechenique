@@ -1,7 +1,5 @@
 ![Masterhead](data/masterhead-pixel-desk.png)
 
-# Gastón Echenique
-
 **Senior Data Engineer** building data infrastructure and ML systems that hold up in production — pipelines, lakehouses, and the occasional geospatial detour.
 
 ## About
