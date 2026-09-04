@@ -4,15 +4,19 @@
 
 ## About
 
-- 🏗️ Data Engineer at **The Black Puma AI (TBP)**, an AWS Partner consultancy — building and operating data infra for healthcare, energy, and pharma clients
-- ☁️ Multi-cloud: AWS (Glue/PySpark, Athena, SageMaker, Step Functions, Lambda, Bedrock), Azure (ADF, Synapse, Delta Lake), GCP (BigQuery)
-- 🗺️ Background in geospatial systems — PostGIS, H3, GeoPandas — from Google X (agricultural pipelines) and the Argentine Navy (hydrography/oceanography, S-57/S-100 nautical charts)
+6+ years building production data infrastructure, now specializing in deploying ML systems at scale. I design the pipelines first — then the models that run on them.
+
+**What I bring:**
+
+- ☁️ **Data Infrastructure at Scale**: AWS (Glue, Athena, S3, SageMaker) and Azure (Data Factory, Synapse) pipelines processing multi-country healthcare, energy, and pharma data — from raw ingestion to production-ready layers, including PySpark jobs at daily scale
+- 🚀 **ML in Production**: Not just notebooks — taking models (XGBoost, recommendation engines, fraud detection) from prototype to deployed, monitored systems
+- 🤖 **Agentic AI & LLM Tooling**: Hands-on with Bedrock, Strands SDK, and Claude Code in daily engineering work — building agents that query, analyze, and act on real data
+- 📊 **Geospatial & Advanced Analytics**: A background in physical oceanography and hydrography feeds directly into geospatial ML work (H3, PostGIS) that most data engineers can't touch
 - 🎓 Teaching Data Engineering & GIS at UNTREF and GeoDojo
-- 🧪 Currently building a Medallion (Bronze/Silver/Gold) pipeline on Databricks, managed with Terraform + CI/CD
 
 ## Stack
 
-`Python` `SQL` `AWS Glue/PySpark` `Athena` `Databricks` `Terraform` `Azure ADF/Synapse` `BigQuery` `PostGIS` `H3` `XGBoost` `PyTorch`
+`Python` `SQL` `AWS Glue/PySpark` `Athena` `SageMaker` `Bedrock` `Databricks` `Terraform` `Azure ADF/Synapse` `BigQuery` `PostGIS` `H3` `XGBoost` `PyTorch`
 
 ## Let's Connect
 
