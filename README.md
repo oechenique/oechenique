@@ -21,10 +21,10 @@
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Gastón_Echenique-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-echenique/)
+[![Portfolio](https://img.shields.io/badge/-Kage_no_Kaji-1a1a1a?style=flat&logo=vercel&logoColor=white)](https://gechenique-dataeng.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-oechenique-333?style=flat&logo=github&logoColor=white)](https://github.com/oechenique)
-[![GeoAnalytics Site](https://img.shields.io/badge/-GeoAnalytics_Site-2ecc71?style=flat&logo=google-earth&logoColor=white)](https://oechenique.github.io/geoanalytics/)
 [![Twitter](https://img.shields.io/badge/-@GastonEchenique-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/GastonEchenique)
-[![Instagram](https://img.shields.io/badge/-gastigeo-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gastigeo/)
+[![GeoAnalytics Site](https://img.shields.io/badge/-GeoAnalytics_Site-2ecc71?style=flat&logo=google-earth&logoColor=white)](https://oechenique.github.io/geoanalytics/)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rhrqmdyaig)
 
 ---
