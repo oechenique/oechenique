@@ -20,8 +20,8 @@
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Gastón_Echenique-0A66C2?style=flat&logo=in&logoColor=white)](https://www.linkedin.com/in/gaston-echenique/)
-[![Portfolio](https://img.shields.io/badge/-Kage_no_Kaji-1a1a1a?style=flat&logo=bot&logoColor=white)](https://gechenique-dataeng.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-Gastón_Echenique-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-echenique/)
+[![Portfolio](https://img.shields.io/badge/-Kage_no_Kaji-1a1a1a?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPGNpcmNsZSBjeD0iNTAiIGN5PSIxNCIgcj0iNiIgZmlsbD0iI2ZmZmZmZiIvPgo8bGluZSB4MT0iNTAiIHkxPSIyMCIgeDI9IjUwIiB5Mj0iMzIiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI2Ii8+CjxyZWN0IHg9IjE4IiB5PSIzMCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjU2IiByeD0iMTYiIGZpbGw9IiNmZmZmZmYiLz4KPGNpcmNsZSBjeD0iMzciIGN5PSI1OCIgcj0iOSIgZmlsbD0iIzFhMWExYSIvPgo8Y2lyY2xlIGN4PSI2MyIgY3k9IjU4IiByPSI5IiBmaWxsPSIjMWExYTFhIi8+CjxyZWN0IHg9IjM0IiB5PSI3NiIgd2lkdGg9IjMyIiBoZWlnaHQ9IjYiIHJ4PSIzIiBmaWxsPSIjMWExYTFhIi8+Cjwvc3ZnPgo=)](https://gechenique-dataeng.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-oechenique-333?style=flat&logo=github&logoColor=white)](https://github.com/oechenique)
 [![Twitter](https://img.shields.io/badge/-@GastonEchenique-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/GastonEchenique)
 [![GeoAnalytics Site](https://img.shields.io/badge/-GeoAnalytics_Site-2ecc71?style=flat&logo=google-earth&logoColor=white)](https://oechenique.github.io/geoanalytics/)
