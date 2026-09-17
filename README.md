@@ -20,7 +20,7 @@
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Gastón_Echenique-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gaston-echenique/)
+[![LinkedIn](https://img.shields.io/badge/-Gastón_Echenique-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-echenique/)
 [![Portfolio](https://img.shields.io/badge/-Kage_no_Kaji-1a1a1a?style=flat&logo=robot&logoColor=white)](https://gechenique-dataeng.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-oechenique-333?style=flat&logo=github&logoColor=white)](https://github.com/oechenique)
 [![Twitter](https://img.shields.io/badge/-@GastonEchenique-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/GastonEchenique)
