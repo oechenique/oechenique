@@ -20,8 +20,8 @@
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Gastón_Echenique-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-echenique/)
-[![Portfolio](https://img.shields.io/badge/-Kage_no_Kaji-1a1a1a?style=flat&logo=robot&logoColor=white)](https://gechenique-dataeng.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-Gastón_Echenique-0A66C2?style=flat&logo=in&logoColor=white)](https://www.linkedin.com/in/gaston-echenique/)
+[![Portfolio](https://img.shields.io/badge/-Kage_no_Kaji-1a1a1a?style=flat&logo=bot&logoColor=white)](https://gechenique-dataeng.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-oechenique-333?style=flat&logo=github&logoColor=white)](https://github.com/oechenique)
 [![Twitter](https://img.shields.io/badge/-@GastonEchenique-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/GastonEchenique)
 [![GeoAnalytics Site](https://img.shields.io/badge/-GeoAnalytics_Site-2ecc71?style=flat&logo=google-earth&logoColor=white)](https://oechenique.github.io/geoanalytics/)
