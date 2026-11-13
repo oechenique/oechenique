@@ -18,6 +18,8 @@
 
 `Python` `SQL` `AWS Glue/PySpark` `Athena` `SageMaker` `Bedrock` `Databricks` `Terraform` `Azure ADF/Synapse` `BigQuery` `PostGIS` `H3` `XGBoost` `PyTorch`
 
+![snake](https://raw.githubusercontent.com/oechenique/oechenique/output/snake-neon.svg)
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Gastón_Echenique-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-echenique/)
